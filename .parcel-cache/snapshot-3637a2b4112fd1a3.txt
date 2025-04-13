@@ -1,0 +1,13 @@
+12
+65C:\Users\Hp\Desktop\NEXUS\06React\Day4\mytraproject\src\Component133833054673282589 1
+61C:\Users\Hp\Desktop\NEXUS\06React\Day4\mytraproject\index.css133890150859502367 0
+62C:\Users\Hp\Desktop\NEXUS\06React\Day4\mytraproject\index.html133833062603924865 0
+61C:\Users\Hp\Desktop\NEXUS\06React\Day4\mytraproject\src\utils133833063286965832 1
+64C:\Users\Hp\Desktop\NEXUS\06React\Day4\mytraproject\src\index.js133890146077698754 0
+69C:\Users\Hp\Desktop\NEXUS\06React\Day4\mytraproject\package-lock.json133890155147216560 0
+64C:\Users\Hp\Desktop\NEXUS\06React\Day4\mytraproject\package.json133890165969975023 0
+55C:\Users\Hp\Desktop\NEXUS\06React\Day4\mytraproject\src133833062973431864 1
+70C:\Users\Hp\Desktop\NEXUS\06React\Day4\mytraproject\src\utils\dummy.js133835019517573669 0
+73C:\Users\Hp\Desktop\NEXUS\06React\Day4\mytraproject\src\Component\Card.js133834996145868146 0
+75C:\Users\Hp\Desktop\NEXUS\06React\Day4\mytraproject\src\Component\Footer.js133833053425897735 0
+75C:\Users\Hp\Desktop\NEXUS\06React\Day4\mytraproject\src\Component\Header.js133833053079165944 0
