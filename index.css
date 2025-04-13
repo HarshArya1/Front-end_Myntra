@@ -1,0 +1,157 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family:sans-serif;
+ 
+}
+.heading{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    position:fixed;
+    top: 0px;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 80px;
+    z-index: 4;
+}
+.images{
+    position: relative;
+    top: 17px;
+    left: 20px;
+}
+.option{
+    padding-top: 25px;
+}
+.but,.pro{
+    margin-right: 10px;
+    height: 25px;
+    border: none;
+    background-color: white;
+    font-size: 14px;
+    font-weight: 600;
+}
+.searchbar{
+    width: 400px;
+    height: 28px;
+    position: relative;
+    top: 22px;
+    margin-right: -70px;
+}
+.Profile{
+    padding-top: 25px;
+}
+ 
+.middle{
+    justify-content: center;
+    padding-bottom:40px ;
+    padding-left:20px ;
+    padding-right: 20px;
+}
+.card{
+    background-color: rgb(204, 203, 199);
+    
+    color: rgb(37, 35, 29);
+    border-radius: 10px;
+    border: 1px solid grey;
+    /* padding: 3px; */
+}
+.dis1,.dis2{
+    margin-bottom: -20px;
+}
+.dis1{
+    margin-top: -1px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    background-color: rgb(236, 236, 236);
+}
+.a,.b,.c,.d{
+    display: flex;
+    flex-direction: column;
+}
+.p{
+    margin-top: -10px;
+    color: rgb(68, 67, 67);
+}
+.img{
+    display: flex;
+}
+.yo{
+    margin-top: -10px;
+}
+#small{
+    margin-right: 15px;
+}
+.first{
+    margin-top: 25px;
+    /* margin-left: 40px; */
+
+}
+.d{
+    width: 220px;
+}
+.pro1{
+    margin-top: 23px;
+    margin-left: 10px;
+    
+}
+.img2{
+    margin-top: 1px;
+}
+.second{
+    margin-top: 16px;
+}
+#h{
+    font-weight: 900;
+}
+.dee{
+    height: 180px;
+}
+.title{
+    margin-left: 9vw;
+    font-size: 3vw;
+}
+.dee1{
+    margin-left: 6vw;
+    height: 180px;
+}
+.im{
+    margin-left: 25px;
+}
+.card:hover{
+    transform: scale(1.01);
+    cursor: pointer;
+}
+button:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.aee{
+    border-radius: 10px;
+}
+.honey{
+    height:9vw;
+    padding: 1vw;;
+}
+.dis11{
+    margin-top: -19px;
+    color: rgb(36, 124, 255);
+}
+.butt{
+    height: 40px;
+    background-color: orange;
+    color: white;
+    font-size: 15px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.butt1{
+    margin-left: 130px;
+}
