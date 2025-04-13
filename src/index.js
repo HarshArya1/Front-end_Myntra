@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import ReactDOM from "react-dom/client";
 import Card from "./Component/Card";
-import Footer from "./Component/footer";
-import Header from "./Component/header";
+import Footer from "./Component/Footer";
+import Header from "./Component/Header";
 // import Header as a from "./Component/header"; rename as my ways
 import {arr,arr2} from "./utils/dummy"
 
